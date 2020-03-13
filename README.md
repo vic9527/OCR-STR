@@ -83,6 +83,6 @@ Code https://github.com/wang-tf/Chinese_OCR_synthetic_data(中文版)
 
 
 
-# 参考资料
+## 参考资料
 
 自然场景文本检测识别技术综述 https://blog.csdn.net/SIGAI_CSDN/article/details/80858565
